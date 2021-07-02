@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Lottomania Admin Reports Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.LottomaniaAdmin.qa.ExtentReportListener.ExtentReportListener" />
+	</listeners>
+	<test name="Lottomania Admin Test Cases">
+		<classes>
+			<class name="com.LottomaniaAdmin.qa.testcases.RevenueReportDayWiseTest"></class>
+			
+		</classes>
+	</test>
+</suite>

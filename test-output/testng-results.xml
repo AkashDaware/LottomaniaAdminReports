@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Lottomania Admin Reports Automation Test Suite" duration-ms="65195" started-at="2021-07-02T11:32:31Z" finished-at="2021-07-02T11:33:36Z">
+    <groups>
+    </groups>
+    <test name="Lottomania Admin Test Cases" duration-ms="65195" started-at="2021-07-02T11:32:31Z" finished-at="2021-07-02T11:33:36Z">
+      <class name="com.LottomaniaAdmin.qa.testcases.RevenueReportDayWiseTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.LottomaniaAdmin.qa.testcases.RevenueReportDayWiseTest@2b98378d]" name="setUp" is-config="true" duration-ms="20877" started-at="2021-07-02T17:02:31Z" finished-at="2021-07-02T17:02:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRevenueReportDayWise()[pri:0, instance:com.LottomaniaAdmin.qa.testcases.RevenueReportDayWiseTest@2b98378d]" name="validateRevenueReportDayWise" duration-ms="43177" started-at="2021-07-02T17:02:52Z" finished-at="2021-07-02T17:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRevenueReportDayWise -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.LottomaniaAdmin.qa.testcases.RevenueReportDayWiseTest@2b98378d]" name="tearDown" is-config="true" duration-ms="1114" started-at="2021-07-02T17:03:35Z" finished-at="2021-07-02T17:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.LottomaniaAdmin.qa.testcases.RevenueReportDayWiseTest -->
+    </test> <!-- Lottomania Admin Test Cases -->
+  </suite> <!-- Lottomania Admin Reports Automation Test Suite -->
+</testng-results>

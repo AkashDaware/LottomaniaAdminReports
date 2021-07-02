@@ -1,0 +1,23 @@
+url = https://test.lotto-mania.com.ng/Console/login.xhtml?faces-redirect=true
+username = akash	
+password = akash123
+
+browser = chrome
+version = Release 1.30 June ,8 2021
+
+-----------------------------------------------
+Revenue Report Date Wise
+-----------------------------------------------
+company = 'TESTING(999999)'
+agent = 'Sky(100085)'
+subAgent = 'Sky_Agent1(200110)'
+retailer = 'Sky_Retailer1(400193)'
+game = 'LEGIT'
+Sale = 10
+Cancel = 0
+SaleBetCount = 1
+CancelBetCount = 0
+WinningAmount = 0
+WinningBetCount = 0
+SelfCommission = 0.05
+AgentCommission = 0
